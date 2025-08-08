@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+openai
+PyPDF2
+faiss-cpu
+tiktoken
+requests
